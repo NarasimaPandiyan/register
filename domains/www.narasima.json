@@ -1,0 +1,10 @@
+{
+  "description": "Netfily CNAME",
+  "owner": {
+    "username": "NarasimaPandiyan",
+    "email": "sayhi@Narasima.is-a.dev"
+  },
+  "record": {
+    "CNAME": "narasima.netlify.app"
+  }
+}
